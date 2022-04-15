@@ -1,0 +1,645 @@
+.navbar {
+	padding: 0.75rem 0;
+}
+
+.container {
+    max-width: 1000px;
+}
+
+.btn-signup {
+    text-shadow: 1px 1px 2px #000;
+    background-image: linear-gradient(0deg,#df3bf1,#3300ff);
+    border-radius: 5px;
+    color: #fff;
+}
+
+ul li a {
+    display: block;
+    font-size: 14px;
+    color: #fff;
+    padding: 14px;
+}
+
+.icon-menu-wrapper {
+    position: relative;
+    float: none;
+    border-radius: 10px;
+    border: 2px solid #3e3a3a;
+    background-color: #736d6d;
+    padding: 0;
+    margin: 0px auto;
+    width: 120px;
+}
+
+.pgr {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px 0px;
+    padding: 91px 0 0 0;
+}
+
+.mcg {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -91px;
+    padding: 91px 0 0 0;
+}
+
+.pgs {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -182px;
+    padding: 91px 0 0 0;
+}
+
+.ttg {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -273px;
+    padding: 91px 0 0 0;
+}
+
+.hb {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -364px;
+    padding: 91px 0 0 0;
+}
+
+.bbn {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -455px;
+    padding: 91px 0 0 0;
+}
+
+.bbp {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -546px;
+    padding: 91px 0 0 0;
+}
+
+.spd {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -637px;
+    padding: 91px 0 0 0;
+}
+
+.jkr {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -728px;
+    padding: 91px 0 0 0;
+}
+
+.pst {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -819px;
+    padding: 91px 0 0 0;
+}
+
+.cq9 {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -910px;
+    padding: 91px 0 0 0;
+}
+
+.bng {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -1001px;
+    padding: 91px 0 0 0;
+}
+
+.sll {
+    background: url(../assets/slots.png) no-repeat;
+    background-position: -14px -1092px;
+    padding: 91px 0 0 0;
+}
+
+.pgr .game-front-icon {
+    background: url(../assets/pgr-game-front-lobby.gif) #1d1b1b no-repeat;
+    background-position: center;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.mcg .game-front-icon {
+    background: url(../assets/mcg-game-front.gif) #1d1b1b no-repeat;
+    background-position: center;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.pgs .game-front-icon {
+    background: url(../assets/pgs-game-front.gif) #1d1b1b no-repeat;
+    background-position: center;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.ttg .game-front-icon {
+    background: url(../assets/231221-game-front-provider.png) #1d1b1b no-repeat;
+    background-position: center -1521px;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.hb .game-front-icon {
+    background: url(../assets/231221-game-front-provider.png) #1d1b1b no-repeat;
+    background-position: center -73px;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.bbn .game-front-icon {
+    background: url(../assets/231221-game-front-provider.png) #1d1b1b no-repeat;
+    background-position: center -1210px;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.bbp .game-front-icon {
+    background: url(../assets/231221-game-front-provider.png) #1d1b1b no-repeat;
+    background-position: center -1676px;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.spd .game-front-icon {
+    background: url(../assets/231221-game-front-provider.png) #1d1b1b no-repeat;
+    background-position: center -140px;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.jkr .game-front-icon {
+    background: url(../assets/231221-game-front-provider.png) #1d1b1b no-repeat;
+    background-position: center -350px;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.pst .game-front-icon {
+    background: url(../assets/231221-game-front-provider.png) #1d1b1b no-repeat;
+    background-position: center -1363px;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.cq9 .game-front-icon {
+    background: url(../assets/231221-game-front-provider.png) #1d1b1b no-repeat;
+    background-position: center -1595px;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.bng .game-front-icon {
+    background: url(../assets/231221-game-front-provider.png) #1d1b1b no-repeat;
+    background-position: center -2020px;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.sll .game-front-icon {
+    background: url(../assets/231221-game-front-provider.png) #1d1b1b no-repeat;
+    background-position: center -1857px;
+    background-size: 90%;
+    min-height: 45px
+}
+
+.banner {
+    text-align: center;
+}
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+p{
+    margin: 0;
+}
+
+body{
+    background: url(../assets/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.container{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.adv{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    vertical-align: middle;
+    border-style: none;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.title-text{
+    color: white;
+    font-size: 2.5rem;
+}
+
+.slot{
+    display: block;
+}
+
+.slot .slot-sidebar{
+    padding-right: 10px;
+    padding-left: 0;
+    margin-top: 5px;
+    background-color: black;
+    float: none !important;
+    width: 100% !important; 
+    flex: none !important;
+    max-width: 100% !important;
+    padding-right: 0 !important;
+}
+
+.btn-provider:hover{
+    background-color: #644C1C;
+}
+
+.card-img-top {
+    height: 120px;
+}
+
+.slot-sidebar {
+    background: linear-gradient(to bottom,#151f3b 0%,#132c63 46%,#151f3b 100%);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.game-front-wrapper {
+    background-size: 100% 100%;
+    padding: 0 40px;
+    margin-bottom: 20px;
+}
+
+.home-slider .owl-stage-outer {
+    padding: 10px 0;
+}
+
+.home-slider .owl-nav {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    margin-top: 0 !important;
+    height: 100%;
+    font-size: 3rem;
+    font-weight: bold;
+    z-index: -1;
+}
+
+.home-slider .owl-nav button {
+    margin: 0 !important;
+    width: 40px;
+    background: transparent !important;
+}
+
+.home-slider .owl-nav button.owl-prev {
+    float: left;
+    height: 100%;
+    margin-left: -40px !important;
+    color: #fff;
+}
+
+.home-slider .owl-nav button.owl-next {
+    float: right;
+    height: 100%;
+    margin-right: -40px !important;
+    color: #fff;
+}
+
+.slot-sidebar-nav{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: nowrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.slot-sidebar-nav li {
+    width: 100%;
+    position: relative;
+    display: block;
+    border-bottom: none;
+    background: linear-gradient(to bottom,#151f3b 0%,#132c63 46%,#151f3b 100%)
+}
+
+.slot-sidebar-nav > li > a{
+    color: #fff;
+    font-size: 13px;
+    padding: 7px 10px;
+    display: block;
+}
+
+.btn-provider{
+    text-align: center;
+    display: block;
+}   
+
+.enter{
+    display: none;
+}
+
+.btn-provider span{
+    position: unset;
+}
+
+.slot .content{
+    float: none;
+    width: 100%;
+    padding: 0;
+    flex: 0 0 100%;
+    max-width: 100%;
+    background-color: #121212;
+}
+
+.wrapper{
+    width: 100%;
+    padding: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+}
+
+.card{
+    float: left;
+    width: 20%;
+    background: transparent;
+    border: none;
+    text-align: center;
+    position: relative;
+}
+
+.card-content{
+    margin: 10px;
+    color: #fff;
+    font-size: 12px;
+    border: none;
+    overflow: hidden;
+    position: relative;
+}
+
+.diskon-img {
+	position: absolute;top: -1px;width: 30%;z-index: 10;
+}
+
+.percent{
+    height: 27px;
+    display: flex;
+    overflow: hidden;
+    line-height: 0;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    position: relative;
+    z-index: 1;
+	border-radius: 18px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.percent p{
+    z-index: 15;    
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 14px;
+    font-weight: bold;
+    transform: translateY(14px);
+    color: black;
+}
+
+.percent-bar{
+    /* background-color: #ffc107; */
+    background-image: linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+    background-size: 1rem 1rem;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    /* background-color: #007bff; */
+    transition: width .6s ease;
+    -webkit-animation: progress-bar-stripes 1s linear infinite;
+    animation: progress-bar-stripes 1s linear infinite;
+    /* animation: ; */
+    z-index: 10;
+}
+
+.yellow{
+    background-color: #ffc107;
+}
+
+.green{
+    background-color: #28a745;
+}
+
+.red{
+    background-color: #dc3545;
+}
+
+.cover-gambar {
+	border-radius: 20px;
+    border: 5px solid #15002b;
+    margin: 5px 0 5px 0;
+    overflow: hidden;
+}
+
+.hover-btn{
+	position: absolute;
+    opacity: 0;
+    top: 5px;
+    background-color: rgba(0,0,0,0.9);
+    transition: all 0.1s ease-in-out;
+    z-index: 10;
+    width: 100%;
+    height: 85%;
+    border-radius: 20px;
+}
+
+.maintenance{
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    color: white;
+    text-align: center;
+    margin: -6px;
+}
+
+.maintenance p{
+    position: relative;
+    top: 40%;
+    font-size: 13px;
+}
+
+.play-btn{
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin-top: 42%;
+    padding: 8px;
+    display: block;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin: 42% 30px 42% 30px;
+    background: linear-gradient(to bottom,#df3bf1 0%,#3300ff 88%);
+    color: #000;
+    border-radius: 18px;
+    transition: all .3s ease;;
+}
+.play-btn:hover{
+    background: linear-gradient(to top,#df3bf1 0%,#3300ff 88%);
+}
+
+.img-zoom{
+    transition: all 0.45s ease-in-out;
+	background: #fff;
+}
+
+.ygg-img{
+    border: 5px solid #2F2F2F;
+}
+
+.hover-btn:hover{
+    opacity: 100%;
+}
+
+.hover-btn:hover ~ a .cover-gambar .img-zoom{
+    transform: scale(1.1);
+    position: relative;
+}
+
+.short{
+    display: none;
+}
+.next-btn{
+    background: linear-gradient(to bottom,#151f3b 0%,#132c63 46%,#151f3b 100%);
+    width: 15%;
+}
+
+.mySlides{
+    display: none;
+}
+
+.next-btn{
+    background-color: #292a2b;
+    border: none;
+    color: #fff;
+}
+
+@media (min-width: 576px){
+    .container{
+        max-width: 540px;
+    }
+    
+}
+
+@media (min-width: 768px){
+    .container{
+        max-width: 720px;
+    }
+    .game-front-wrapper {
+		padding: 0 160px;
+	}
+}
+
+@media (min-width: 992px){
+    .container{
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px){
+    .container{
+        max-width: 1140px;
+    }
+}
+
+@media (max-width: 992px) {
+    .slot-sidebar-nav{
+        flex-wrap: nowrap;
+    }
+    .slot-sidebar{
+        float: none !important;
+        width: 100% !important; 
+        flex: none !important;
+        max-width: 100% !important;
+        padding-right: 0 !important;
+    }
+    .content{
+        float: none !important;
+        width: 100% !important;
+        flex: none !important;
+        max-width: 100% !important;
+    }
+    .card{
+        width: 33.3% !important;
+    }
+    .hover-btn{
+        display: none;
+    }
+    .hover-btn:hover ~ .img-zoom{
+        transform: scale(1.2);
+		position: relative;
+    }
+    .btn-provider{
+        text-align: center;
+        display: block;
+    }  
+    .enter{
+        display: block;
+    }
+    .btn-provider span{
+        position: unset;
+    }
+    .btn-provider i{
+        margin: 0;
+    }
+    .slot-sidebar-nav li{
+        border-bottom: none;
+    }
+    .slot-sidebar-nav li a p{
+        font-size: 5px;
+    }
+    .img-zoom{
+        height: auto;
+    }
+    .slot-sidebar-nav li a img{
+        height: 17.5px !important;
+    }
+    .maintenance p{
+        font-size: 5px;
+    }
+}
+
+.footer-dark {
+	margin-top: 45px;
+	background-color: #192138;
+}

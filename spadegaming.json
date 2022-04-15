@@ -1,0 +1,378 @@
+[
+  {
+    "title": "Royal Katt",
+    "img": "assets/spd/S-RK02.png"
+  },
+  {
+    "title": "Muay Thai Fighter",
+    "img": "assets/spd/S-MT01.png"
+  },
+  {
+    "title": "Hugon Quest",
+    "img": "assets/spd/S-HQ01.png"
+  },
+  {
+    "title": "Mayan Gems",
+    "img": "assets/spd/S-MG02.png"
+  },
+  {
+    "title": "Roma",
+    "img": "assets/spd/S-RM01.png"
+  },
+  {
+    "title": "Legendary Beasts Saga",
+    "img": "assets/spd/S-LB01.png"
+  },
+  {
+    "title": "Sexy Vegas",
+    "img": "assets/spd/S-VB01.png"
+  },
+  {
+    "title": "Kungfu Dragon",
+    "img": "assets/spd/S-KF01.png"
+  },
+  {
+    "title": "Love Idol",
+    "img": "assets/spd/S-LI03.png"
+  },
+  {
+    "title": "Tiger Dance",
+    "img": "assets/spd/S-TD01.png"
+  },
+  {
+    "title": "Gold Rush Cowboy",
+    "img": "assets/spd/S-GR01.png"
+  },
+  {
+    "title": "Magic Kitty",
+    "img": "assets/spd/S-MK01.png"
+  },
+  {
+    "title": "Royale House",
+    "img": "assets/spd/S-RH02.png"
+  },
+  {
+    "title": "Rich Caishen",
+    "img": "assets/spd/S-RC01.png"
+  },
+  {
+    "title": "Poker Ways",
+    "img": "assets/spd/S-PW03.png"
+  },
+  {
+    "title": "Rudy Hood",
+    "img": "assets/spd/S-RH01.png"
+  },
+  {
+    "title": "Wild Wet Win",
+    "img": "assets/spd/S-WW02.png"
+  },
+  {
+    "title": "Triple Panda",
+    "img": "assets/spd/S-TP02.png"
+  },
+  {
+    "title": "Gold Panther",
+    "img": "assets/spd/S-GP01.png"
+  },
+  {
+    "title": "Mr Chu Tycoon",
+    "img": "assets/spd/S-CH01.png"
+  },
+  {
+    "title": "Brothers Kingdom",
+    "img": "assets/spd/S-GK01.png"
+  },
+  {
+    "title": "Prosperity Gods",
+    "img": "assets/spd/S-PG01.png"
+  },
+  {
+    "title": "Golden Fist",
+    "img": "assets/spd/S-GF01.png"
+  },
+  {
+    "title": "Candy Pop",
+    "img": "assets/spd/S-CP01.png"
+  },
+  {
+    "title": "Wow Prosperity",
+    "img": "assets/spd/S-WP02.png"
+  },
+  {
+    "title": "Fafafa2",
+    "img": "assets/spd/S-LY02.png"
+  },
+  {
+    "title": "Gangster Axe",
+    "img": "assets/spd/S-GA01.png"
+  },
+  {
+    "title": "Princess Wang",
+    "img": "assets/spd/S-PW02.png"
+  },
+  {
+    "title": "Shanghai 008",
+    "img": "assets/spd/S-SH01.png"
+  },
+  {
+    "title": "Jungle King",
+    "img": "assets/spd/S-TZ01.png"
+  },
+  {
+    "title": "First Love",
+    "img": "assets/spd/S-FL02.png"
+  },
+  {
+    "title": "Golden Monkey",
+    "img": "assets/spd/S-FM02.png"
+  },
+  {
+    "title": "Pan Fairy",
+    "img": "assets/spd/S-PP01.png"
+  },
+  {
+    "title": "Fist Of Gold",
+    "img": "assets/spd/S-FG01.png"
+  },
+  {
+    "title": "Tiger Warrior",
+    "img": "assets/spd/S-TW01.png"
+  },
+  {
+    "title": "Ho Yeah Monkey",
+    "img": "assets/spd/S-HY01.png"
+  },
+  {
+    "title": "Sea Emperor",
+    "img": "assets/spd/S-NT01.png"
+  },
+  {
+    "title": "Golden Chicken",
+    "img": "assets/spd/S-GC03.png"
+  },
+  {
+    "title": "5 Fortune Dragons",
+    "img": "assets/spd/S-FD01.png"
+  },
+  {
+    "title": "Cai Shen 888",
+    "img": "assets/spd/S-CS01.png"
+  },
+  {
+    "title": "Adventure Iceland",
+    "img": "assets/spd/S-IL02.png"
+  },
+  {
+    "title": "Iceland Sa",
+    "img": "assets/spd/S-IL03.png"
+  },
+  {
+    "title": "Lucky Koi",
+    "img": "assets/spd/S-LK01.png"
+  },
+  {
+    "title": "God's Kitchen",
+    "img": "assets/spd/S-GO01.png"
+  },
+  {
+    "title": "Alibaba",
+    "img": "assets/spd/S-AL01.png"
+  },
+  {
+    "title": "Double Fortune",
+    "img": "assets/spd/S-DF01.png"
+  },
+  {
+    "title": "Daddys Vacation",
+    "img": "assets/spd/S-DV01.png"
+  },
+  {
+    "title": "Da Fu Xiao Fu",
+    "img": "assets/spd/S-DX01.png"
+  },
+  {
+    "title": "Master Chef",
+    "img": "assets/spd/S-CC01.png"
+  },
+  {
+    "title": "Golf Champions",
+    "img": "assets/spd/S-GP02.png"
+  },
+  {
+    "title": "Golden Whale",
+    "img": "assets/spd/S-GW01.png"
+  },
+  {
+    "title": "Highway Fortune",
+    "img": "assets/spd/S-HF01.png"
+  },
+  {
+    "title": "Lucky Strike",
+    "img": "assets/spd/S-LS01.png"
+  },
+  {
+    "title": "Pirate King",
+    "img": "assets/spd/S-PK01.png"
+  },
+  {
+    "title": "Railway King",
+    "img": "assets/spd/S-RK01.png"
+  },
+  {
+    "title": "Wong Choy",
+    "img": "assets/spd/S-WC02.png"
+  },
+  {
+    "title": "Wong Choy Sa",
+    "img": "assets/spd/S-WC03.png"
+  },
+  {
+    "title": "5 Fortune",
+    "img": "assets/spd/S-WM02.png"
+  },
+  {
+    "title": "5 Fortune Sa",
+    "img": "assets/spd/S-WM03.png"
+  },
+  {
+    "title": "Great Stars",
+    "img": "assets/spd/S-GS03.png"
+  },
+  {
+    "title": "Great Stars Sa",
+    "img": "assets/spd/S-GS04.png"
+  },
+  {
+    "title": "Dragon Gold",
+    "img": "assets/spd/S-DG03.png"
+  },
+  {
+    "title": "Dragon Gold Sa",
+    "img": "assets/spd/S-DG04.png"
+  },
+  {
+    "title": "Big Prosperity",
+    "img": "assets/spd/S-FC02.png"
+  },
+  {
+    "title": "Big Prosperity Sa",
+    "img": "assets/spd/S-FC03.png"
+  },
+  {
+    "title": "Festive Lion",
+    "img": "assets/spd/S-BB01.png"
+  },
+  {
+    "title": "Cai Yuan Guang Jin",
+    "img": "assets/spd/S-CY01.png"
+  },
+  {
+    "title": "Drunken Jungle",
+    "img": "assets/spd/S-CM01.png"
+  },
+  {
+    "title": "Honey Hunter",
+    "img": "assets/spd/S-HH01.png"
+  },
+  {
+    "title": "Lucky Cai Shen",
+    "img": "assets/spd/S-LC01.png"
+  },
+  {
+    "title": "Lucky Meow",
+    "img": "assets/spd/S-LM01.png"
+  },
+  {
+    "title": "Fafafa",
+    "img": "assets/spd/S-LY01.png"
+  },
+  {
+    "title": "Santa Gifts",
+    "img": "assets/spd/S-SG02.png"
+  },
+  {
+    "title": "Spin Stone",
+    "img": "assets/spd/S-SA02.png"
+  },
+  {
+    "title": "Emperor Gate",
+    "img": "assets/spd/S-EG02.png"
+  },
+  {
+    "title": "Emperor Gate Sa",
+    "img": "assets/spd/S-EG03.png"
+  },
+  {
+    "title": "Amazing Thailand",
+    "img": "assets/spd/S-AT02.png"
+  },
+  {
+    "title": "Baby Cai Shen",
+    "img": "assets/spd/S-BC01.png"
+  },
+  {
+    "title": "168 Fortunes",
+    "img": "assets/spd/S-FO01.png"
+  },
+  {
+    "title": "Pocket Mon Go",
+    "img": "assets/spd/S-PO01.png"
+  },
+  {
+    "title": "King Pharaoh",
+    "img": "assets/spd/S-PH02.png"
+  },
+  {
+    "title": "Mermaid",
+    "img": "assets/spd/S-MR01.png"
+  },
+  {
+    "title": "Heroes",
+    "img": "assets/spd/S-HE01.png"
+  },
+  {
+    "title": "Sweet Bakery",
+    "img": "assets/spd/S-SB01.png"
+  },
+  {
+    "title": "Wong Po",
+    "img": "assets/spd/S-WP01.png"
+  },
+  {
+    "title": "Lucky Feng Shui",
+    "img": "assets/spd/S-LF01.png"
+  },
+  {
+    "title": "Zeus",
+    "img": "assets/spd/S-ZE01.png"
+  },
+  {
+    "title": "Golden Lotus Se",
+    "img": "assets/spd/S-GL02.png"
+  },
+  {
+    "title": "Mega 7",
+    "img": "assets/spd/S-MG01.png"
+  },
+  {
+    "title": "Rise Of Werewolves",
+    "img": "assets/spd/S-RW01.png"
+  },
+  {
+    "title": "Jokers Treasure",
+    "img": "assets/spd/S-JT02.png"
+  },
+  {
+    "title": "Fiery Sevens",
+    "img": "assets/spd/S-FS01.png"
+  },
+  {
+    "title": "Crazy Boomer",
+    "img": "assets/spd/S-CB01.png"
+  },
+  {
+    "title": "Double Flame",
+    "img": "assets/spd/S-DF03.png"
+  }
+]

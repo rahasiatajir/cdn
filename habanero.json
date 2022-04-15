@@ -1,0 +1,514 @@
+[
+  {
+    "title": "Lantern Luck",
+    "img": "assets/hb/SGLanternLuck.png"
+  },
+  {
+    "title": "Lucky Durian",
+    "img": "assets/hb/SGLuckyDurian.png"
+  },
+  {
+    "title": "Nine Tails",
+    "img": "assets/hb/SGNineTails.png"
+  },
+  {
+    "title": "Fly!",
+    "img": "assets/hb/SGFly.png"
+  },
+  {
+    "title": "Mystic Fortune Deluxe",
+    "img": "assets/hb/SGMysticFortuneDeluxe.png"
+  },
+  {
+    "title": "Calaveras Explosivas",
+    "img": "assets/hb/SGCalaverasExplosivas.png"
+  },
+  {
+    "title": "Totem Towers",
+    "img": "assets/hb/SGTotemTowers.png"
+  },
+  {
+    "title": "Return To The Feature",
+    "img": "assets/hb/SGReturnToTheFeature.png"
+  },
+  {
+    "title": "Marvelous Furlongs",
+    "img": "assets/hb/SGMarvelousFurlongs.png"
+  },
+  {
+    "title": "Candy Tower",
+    "img": "assets/hb/SGCandyTower.png"
+  },
+  {
+    "title": "Hot Hot Fruit",
+    "img": "assets/hb/SGHotHotFruit.png"
+  },
+  {
+    "title": "Koi Gate",
+    "img": "assets/hb/SGTheKoiGate.png"
+  },
+  {
+    "title": "Fa Cai Shen",
+    "img": "assets/hb/SGFaCaiShen.png"
+  },
+  {
+    "title": "Wild Trucks",
+    "img": "assets/hb/SGWildTrucks.png"
+  },
+  {
+    "title": "Fa Cai Shen Deluxe",
+    "img": "assets/hb/SGFaCaiShenDeluxe.png"
+  },
+  {
+    "title": "Four Divine Beasts",
+    "img": "assets/hb/SGFourDivineBeasts.png"
+  },
+  {
+    "title": "Lucky Fortune Cat",
+    "img": "assets/hb/SGLuckyFortuneCat.png"
+  },
+  {
+    "title": "Loony Blox",
+    "img": "assets/hb/SGLoonyBlox.png"
+  },
+  {
+    "title": "Knockout Football Rush",
+    "img": "assets/hb/SGKnockoutFootballRush.png"
+  },
+  {
+    "title": "5 Lucky Lions",
+    "img": "assets/hb/SG5LuckyLions.png"
+  },
+  {
+    "title": "Happiest Christmas Tree",
+    "img": "assets/hb/SGHappiestChristmasTree.png"
+  },
+  {
+    "title": "Santa's Village",
+    "img": "assets/hb/SGSantasVillage.png"
+  },
+  {
+    "title": "Lucky Lucky",
+    "img": "assets/hb/SGLuckyLucky.png"
+  },
+  {
+    "title": "Hot Hot Halloween",
+    "img": "assets/hb/SGHotHotHalloween.png"
+  },
+  {
+    "title": "Pumpkin Patch",
+    "img": "assets/hb/SGPumpkinPatch.png"
+  },
+  {
+    "title": "Wizards Want War",
+    "img": "assets/hb/SGWizardsWantWar.png"
+  },
+  {
+    "title": "Naughty Santa",
+    "img": "assets/hb/SGNaughtySanta.png"
+  },
+  {
+    "title": "Jump!",
+    "img": "assets/hb/SGJump.png"
+  },
+  {
+    "title": "Egyptian Dreams Deluxe",
+    "img": "assets/hb/SGEgyptianDreamsDeluxe.png"
+  },
+  {
+    "title": "Nuwa",
+    "img": "assets/hb/SGNuwa.png"
+  },
+  {
+    "title": "Orbs Of Atlantis",
+    "img": "assets/hb/SGOrbsOfAtlantis.png"
+  },
+  {
+    "title": "Colossal Gems",
+    "img": "assets/hb/SGColossalGems.png"
+  },
+  {
+    "title": "Before Time Runs Out",
+    "img": "assets/hb/SGBeforeTimeRunsOut.png"
+  },
+  {
+    "title": "Magic Oak",
+    "img": "assets/hb/SGMagicOak.png"
+  },
+  {
+    "title": "Mount Mazuma",
+    "img": "assets/hb/SGMountMazuma.png"
+  },
+  {
+    "title": "Ways Of Fortune",
+    "img": "assets/hb/SGWaysOfFortune.png"
+  },
+  {
+    "title": "Knockout Football",
+    "img": "assets/hb/SGKnockoutFootball.png"
+  },
+  {
+    "title": "Fortune Dogs",
+    "img": "assets/hb/SGFortuneDogs.png"
+  },
+  {
+    "title": "Presto!",
+    "img": "assets/hb/SGPresto.png"
+  },
+  {
+    "title": "London Hunter",
+    "img": "assets/hb/SGLondonHunter.png"
+  },
+  {
+    "title": "5 Mariachis",
+    "img": "assets/hb/SG5Mariachis.png"
+  },
+  {
+    "title": "Rolling Roger",
+    "img": "assets/hb/SGRollingRoger.png"
+  },
+  {
+    "title": "Cake Valley",
+    "img": "assets/hb/SGCakeValley.png"
+  },
+  {
+    "title": "Scruffy Scallywags",
+    "img": "assets/hb/SGScruffyScallywags.png"
+  },
+  {
+    "title": "The Dead Escape",
+    "img": "assets/hb/SGTheDeadEscape.png"
+  },
+  {
+    "title": "Panda Panda",
+    "img": "assets/hb/SGPandaPanda.png"
+  },
+  {
+    "title": "Bird Of Thunder",
+    "img": "assets/hb/SGBirdOfThunder.png"
+  },
+  {
+    "title": "Fire Rooster",
+    "img": "assets/hb/SGFireRooster.png"
+  },
+  {
+    "title": "Fenghuang",
+    "img": "assets/hb/SGFenghuang.png"
+  },
+  {
+    "title": "Jugglenaut",
+    "img": "assets/hb/SGJugglenaut.png"
+  },
+  {
+    "title": "Sparta",
+    "img": "assets/hb/SGSparta.png"
+  },
+  {
+    "title": "Ocean's Call",
+    "img": "assets/hb/SGOceansCall.png"
+  },
+  {
+    "title": "Glam Rock",
+    "img": "assets/hb/SGGlamRock.png"
+  },
+  {
+    "title": "Gangsters",
+    "img": "assets/hb/SGGangsters.png"
+  },
+  {
+    "title": "Super Twister",
+    "img": "assets/hb/SGSuperTwister.png"
+  },
+  {
+    "title": "Arcane Elements",
+    "img": "assets/hb/SGArcaneElements.png"
+  },
+  {
+    "title": "Coyote Crash",
+    "img": "assets/hb/SGCoyoteCrash.png"
+  },
+  {
+    "title": "12 Zodiacs",
+    "img": "assets/hb/SG12Zodiacs.png"
+  },
+  {
+    "title": "Ruffled Up",
+    "img": "assets/hb/SGRuffledUp.png"
+  },
+  {
+    "title": "Bombs Away",
+    "img": "assets/hb/SGBombsAway.png"
+  },
+  {
+    "title": "Dragon's Throne",
+    "img": "assets/hb/SGDragonsThrone.png"
+  },
+  {
+    "title": "Roman Empire",
+    "img": "assets/hb/SGRomanEmpire.png"
+  },
+  {
+    "title": "Zeus 2",
+    "img": "assets/hb/SGZeus2.png"
+  },
+  {
+    "title": "Wicked Witch",
+    "img": "assets/hb/SGWickedWitch.png"
+  },
+  {
+    "title": "Gold Rush",
+    "img": "assets/hb/SGGoldRush.png"
+  },
+  {
+    "title": "Galactic Cash",
+    "img": "assets/hb/SGGalacticCash.png"
+  },
+  {
+    "title": "Buggy Bonus",
+    "img": "assets/hb/SGBuggyBonus.png"
+  },
+  {
+    "title": "Treasure Tomb",
+    "img": "assets/hb/SGTreasureTomb.png"
+  },
+  {
+    "title": "Treasure Diver",
+    "img": "assets/hb/SGTreasureDiver.png"
+  },
+  {
+    "title": "Carnival Cash",
+    "img": "assets/hb/SGCarnivalCash.png"
+  },
+  {
+    "title": "Dragon Castle",
+    "img": "assets/hb/SGTheDragonCastle.png"
+  },
+  {
+    "title": "Monster Mash Cash",
+    "img": "assets/hb/SGMonsterMashCash.png"
+  },
+  {
+    "title": "Little Green Money",
+    "img": "assets/hb/SGLittleGreenMoney.png"
+  },
+  {
+    "title": "Viking's Plunder",
+    "img": "assets/hb/SGVikingsPlunder.png"
+  },
+  {
+    "title": "Dr Feelgood",
+    "img": "assets/hb/SGDrFeelgood.png"
+  },
+  {
+    "title": "Blackbeard's Bounty",
+    "img": "assets/hb/SGBlackbeardsBounty.png"
+  },
+  {
+    "title": "Weird Science",
+    "img": "assets/hb/SGWeirdScience.png"
+  },
+  {
+    "title": "Pool Shark",
+    "img": "assets/hb/SGPoolShark.png"
+  },
+  {
+    "title": "S.o.s!",
+    "img": "assets/hb/SGSOS.png"
+  },
+  {
+    "title": "Zeus",
+    "img": "assets/hb/SGZeus.png"
+  },
+  {
+    "title": "Pamper Me",
+    "img": "assets/hb/SGPamperMe.png"
+  },
+  {
+    "title": "Space Fortune",
+    "img": "assets/hb/SGSpaceFortune.png"
+  },
+  {
+    "title": "Jungle Rumble",
+    "img": "assets/hb/SGJungleRumble.png"
+  },
+  {
+    "title": "Super Strike",
+    "img": "assets/hb/SGSuperStrike.png"
+  },
+  {
+    "title": "Barnstormer Bucks",
+    "img": "assets/hb/SGBarnstormerBucks.png"
+  },
+  {
+    "title": "Bikini Island",
+    "img": "assets/hb/SGBikiniIsland.png"
+  },
+  {
+    "title": "Tower Of Pizza",
+    "img": "assets/hb/SGTowerOfPizza.png"
+  },
+  {
+    "title": "Mystic Fortune",
+    "img": "assets/hb/SGMysticFortune.png"
+  },
+  {
+    "title": "Mr Bling",
+    "img": "assets/hb/SGMrBling.png"
+  },
+  {
+    "title": "Flying High",
+    "img": "assets/hb/SGFlyingHigh.png"
+  },
+  {
+    "title": "Queen Of Queens",
+    "img": "assets/hb/SGQueenOfQueens243.png"
+  },
+  {
+    "title": "Cash Reef",
+    "img": "assets/hb/SGCashReef.png"
+  },
+  {
+    "title": "Sir Blingalot",
+    "img": "assets/hb/SGSirBlingalot.png"
+  },
+  {
+    "title": "Pucker Up Prince",
+    "img": "assets/hb/SGPuckerUpPrince.png"
+  },
+  {
+    "title": "Golden Unicorn",
+    "img": "assets/hb/SGGoldenUnicorn.png"
+  },
+  {
+    "title": "The Grape Escape",
+    "img": "assets/hb/SGGrapeEscape.png"
+  },
+  {
+    "title": "Ride 'em Cowboy",
+    "img": "assets/hb/SGRideEmCowboy.png"
+  },
+  {
+    "title": "Shogun's Land",
+    "img": "assets/hb/SGShogunsLand.png"
+  },
+  {
+    "title": "Frontier Fortunes",
+    "img": "assets/hb/SGFrontierFortunes.png"
+  },
+  {
+    "title": "The Big Deal",
+    "img": "assets/hb/SGTheBigDeal.png"
+  },
+  {
+    "title": "Sky's The Limit",
+    "img": "assets/hb/SGSkysTheLimit.png"
+  },
+  {
+    "title": "Rodeo Drive",
+    "img": "assets/hb/SGRodeoDrive.png"
+  },
+  {
+    "title": "Haunted House",
+    "img": "assets/hb/SGHauntedHouse.png"
+  },
+  {
+    "title": "Disco Funk",
+    "img": "assets/hb/SGDiscoFunk.png"
+  },
+  {
+    "title": "Taberna De Los Muertos",
+    "img": "assets/hb/SGTabernaDeLosMuertos.png"
+  },
+  {
+    "title": "Cashosaurus",
+    "img": "assets/hb/SGCashosaurus.png"
+  },
+  {
+    "title": "Arctic Wonders",
+    "img": "assets/hb/SGArcticWonders.png"
+  },
+  {
+    "title": "Queen Of Queens Ii",
+    "img": "assets/hb/SGQueenOfQueens1024.png"
+  },
+  {
+    "title": "All For One",
+    "img": "assets/hb/SGAllForOne.png"
+  },
+  {
+    "title": "Shaolin Fortunes",
+    "img": "assets/hb/SGShaolinFortunes243.png"
+  },
+  {
+    "title": "Double O Dollars",
+    "img": "assets/hb/SGDoubleODollars.png"
+  },
+  {
+    "title": "Shaolin Fortunes 100",
+    "img": "assets/hb/SGShaolinFortunes100.png"
+  },
+  {
+    "title": "Kane's Inferno",
+    "img": "assets/hb/SGKanesInferno.png"
+  },
+  {
+    "title": "Aztlan's Gold",
+    "img": "assets/hb/SGAzlandsGold.png"
+  },
+  {
+    "title": "Dragon's Realm",
+    "img": "assets/hb/SGDragonsRealm.png"
+  },
+  {
+    "title": "Egyptian Dreams",
+    "img": "assets/hb/SGEgyptianDreams.png"
+  },
+  {
+    "title": "Indian Cash Catcher",
+    "img": "assets/hb/SGIndianCashCatcher.png"
+  },
+  {
+    "title": "King Tut's Tomb",
+    "img": "assets/hb/SGKingTutsTomb.png"
+  },
+  {
+    "title": "Mummy Money",
+    "img": "assets/hb/SGMummyMoney.png"
+  },
+  {
+    "title": "Pirate's Plunder",
+    "img": "assets/hb/SGPiratesPlunder.png"
+  },
+  {
+    "title": "Christmas Gift Rush",
+    "img": "assets/hb/SGChristmasGiftRush.png"
+  },
+  {
+    "title": "Jellyfish Flow Ultra",
+    "img": "assets/hb/SGJellyfishFlowUltra.png"
+  },
+  {
+    "title": "Techno Tumble",
+    "img": "assets/hb/SGTechnoTumble.png"
+  },
+  {
+    "title": "Scopa",
+    "img": "assets/hb/SGScopa.png"
+  },
+  {
+    "title": "Happy Ape",
+    "img": "assets/hb/SGHappyApe.png"
+  },
+  {
+    "title": "Wealth Inn",
+    "img": "assets/hb/SGWealthInn.png"
+  },
+  {
+    "title": "Hey Sushi",
+    "img": "assets/hb/SGHeySushi.png"
+  },
+  {
+    "title": "Jellyfish Flow",
+    "img": "assets/hb/SGJellyfishFlow.png"
+  }
+]

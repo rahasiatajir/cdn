@@ -1,0 +1,342 @@
+[
+  {
+    "title": "Fortune Tiger",
+    "img": "assets/pgs/fortune-tiger.png"
+  },
+  {
+    "title": "Oriental Prosperity",
+    "img": "assets/pgs/oriental-pros.png"
+  },
+  {
+    "title": "Mask Carnival",
+    "img": "assets/pgs/mask-carnival.png"
+  },
+  {
+    "title": "Cocktail Nights",
+    "img": "assets/pgs/cocktail-nite.png"
+  },
+  {
+    "title": "Emoji Riches",
+    "img": "assets/pgs/emoji-riches.png"
+  },
+  {
+    "title": "Farm Invaders",
+    "img": "assets/pgs/farm-invaders.png"
+  },
+  {
+    "title": "Spirited Wonders",
+    "img": "assets/pgs/spirit-wonder.png"
+  },
+  {
+    "title": "Legendary Monkey King",
+    "img": "assets/pgs/lgd-monkey-kg.png"
+  },
+  {
+    "title": "Buffalo Win",
+    "img": "assets/pgs/buffalo-win.png"
+  },
+  {
+    "title": "Supermarket Spree",
+    "img": "assets/pgs/sprmkt-spree.png"
+  },
+  {
+    "title": "Raider Jane's Crypt Of Fortune",
+    "img": "assets/pgs/crypt-fortune.png"
+  },
+  {
+    "title": "Leprechaun Riches",
+    "img": "assets/pgs/leprechaun-riches.png"
+  },
+  {
+    "title": "Mahjong Ways",
+    "img": "assets/pgs/mahjong-ways.png"
+  },
+  {
+    "title": "Mahjong Ways 2",
+    "img": "assets/pgs/mahjong-ways2.png"
+  },
+  {
+    "title": "Treasures Of Aztec",
+    "img": "assets/pgs/treasures-aztec.png"
+  },
+  {
+    "title": "Lucky Neko",
+    "img": "assets/pgs/lucky-neko.png"
+  },
+  {
+    "title": "Jurassic Kingdom",
+    "img": "assets/pgs/jurassic-kdm.png"
+  },
+  {
+    "title": "The Great Icescape",
+    "img": "assets/pgs/the-great-icescape.png"
+  },
+  {
+    "title": "Captain's Bounty",
+    "img": "assets/pgs/captains-bounty.png"
+  },
+  {
+    "title": "Caishen Wins",
+    "img": "assets/pgs/cai-shen-wins.png"
+  },
+  {
+    "title": "Ganesha Fortune",
+    "img": "assets/pgs/ganesha-fortune.png"
+  },
+  {
+    "title": "Dreams Of Macau",
+    "img": "assets/pgs/dreams-of-macau.png"
+  },
+  {
+    "title": "Queen Of Bounty",
+    "img": "assets/pgs/queen-bounty.png"
+  },
+  {
+    "title": "Fortune Ox",
+    "img": "assets/pgs/fortune-ox.png"
+  },
+  {
+    "title": "Wild Bandito",
+    "img": "assets/pgs/wild-bandito.png"
+  },
+  {
+    "title": "Ways Of The Qilin",
+    "img": "assets/pgs/ways-of-qilin.png"
+  },
+  {
+    "title": "Dragon Hatch",
+    "img": "assets/pgs/dragon-hatch.png"
+  },
+  {
+    "title": "Egypt's Book Of Mystery",
+    "img": "assets/pgs/egypts-book-mystery.png"
+  },
+  {
+    "title": "Phoenix Rises",
+    "img": "assets/pgs/phoenix-rises.png"
+  },
+  {
+    "title": "Wild Fireworks",
+    "img": "assets/pgs/wild-fireworks.png"
+  },
+  {
+    "title": "Thai River Wonders",
+    "img": "assets/pgs/thai-river.png"
+  },
+  {
+    "title": "Bali Vacation",
+    "img": "assets/pgs/bali-vacation.png"
+  },
+  {
+    "title": "Crypto Gold",
+    "img": "assets/pgs/crypto-gold.png"
+  },
+  {
+    "title": "Honey Trap Of Diao Chan",
+    "img": "assets/pgs/diaochan.png"
+  },
+  {
+    "title": "Fortune Gods",
+    "img": "assets/pgs/fortune-gods.png"
+  },
+  {
+    "title": "Win Win Won",
+    "img": "assets/pgs/win-win-won.png"
+  },
+  {
+    "title": "Medusa Ii",
+    "img": "assets/pgs/medusa2.png"
+  },
+  {
+    "title": "Tree Of Fortune",
+    "img": "assets/pgs/fortune-tree.png"
+  },
+  {
+    "title": "Medusa",
+    "img": "assets/pgs/medusa.png"
+  },
+  {
+    "title": "Plushie Frenzy",
+    "img": "assets/pgs/plushie-frenzy.png"
+  },
+  {
+    "title": "Wizdom Wonders",
+    "img": "assets/pgs/wizdom-wonders.png"
+  },
+  {
+    "title": "Gem Saviour",
+    "img": "assets/pgs/gem-saviour.png"
+  },
+  {
+    "title": "Hood Vs Wolf",
+    "img": "assets/pgs/hood-wolf.png"
+  },
+  {
+    "title": "Hotpot",
+    "img": "assets/pgs/hotpot.png"
+  },
+  {
+    "title": "Dragon Legend",
+    "img": "assets/pgs/dragon-legend.png"
+  },
+  {
+    "title": "Mr. Hallow-win",
+    "img": "assets/pgs/mr-hallow-win.png"
+  },
+  {
+    "title": "Legend Of Hou Yi",
+    "img": "assets/pgs/legend-of-hou-yi.png"
+  },
+  {
+    "title": "Prosperity Lion",
+    "img": "assets/pgs/prosperity-lion.png"
+  },
+  {
+    "title": "Hip Hop Panda",
+    "img": "assets/pgs/hip-hop-panda.png"
+  },
+  {
+    "title": "Santa's Gift Rush",
+    "img": "assets/pgs/santas-gift-rush.png"
+  },
+  {
+    "title": "Gem Saviour Sword",
+    "img": "assets/pgs/gem-saviour-sword.png"
+  },
+  {
+    "title": "Piggy Gold",
+    "img": "assets/pgs/piggy-gold.png"
+  },
+  {
+    "title": "Symbols Of Egypt",
+    "img": "assets/pgs/symbols-of-egypt.png"
+  },
+  {
+    "title": "Emperor's Favour",
+    "img": "assets/pgs/emperors-favour.png"
+  },
+  {
+    "title": "Ganesha Gold",
+    "img": "assets/pgs/ganesha-gold.png"
+  },
+  {
+    "title": "Three Monkeys",
+    "img": "assets/pgs/three-monkeys.png"
+  },
+  {
+    "title": "Jungle Delight",
+    "img": "assets/pgs/jungle-delight.png"
+  },
+  {
+    "title": "Journey To The Wealth",
+    "img": "assets/pgs/journey-to-the-wealth.png"
+  },
+  {
+    "title": "Flirting Scholar",
+    "img": "assets/pgs/flirting-scholar.png"
+  },
+  {
+    "title": "Ninja Vs Samurai",
+    "img": "assets/pgs/ninja-vs-samurai.png"
+  },
+  {
+    "title": "Muay Thai Champion",
+    "img": "assets/pgs/muay-thai-champion.png"
+  },
+  {
+    "title": "Dragon Tiger Luck",
+    "img": "assets/pgs/dragon-tiger-luck.png"
+  },
+  {
+    "title": "Fortune Mouse",
+    "img": "assets/pgs/fortune-mouse.png"
+  },
+  {
+    "title": "Reel Love",
+    "img": "assets/pgs/reel-love.png"
+  },
+  {
+    "title": "Gem Saviour Conquest",
+    "img": "assets/pgs/gem-saviour-conquest.png"
+  },
+  {
+    "title": "Shaolin Soccer",
+    "img": "assets/pgs/shaolin-soccer.png"
+  },
+  {
+    "title": "Candy Burst",
+    "img": "assets/pgs/candy-burst.png"
+  },
+  {
+    "title": "Bikini Paradise",
+    "img": "assets/pgs/bikini-paradise.png"
+  },
+  {
+    "title": "Genie's 3 Wishes",
+    "img": "assets/pgs/genies-wishes.png"
+  },
+  {
+    "title": "Circus Delight",
+    "img": "assets/pgs/circus-delight.png"
+  },
+  {
+    "title": "Secret Of Cleopatra",
+    "img": "assets/pgs/sct-cleopatra.png"
+  },
+  {
+    "title": "Vampire's Charm",
+    "img": "assets/pgs/vampires-charm.png"
+  },
+  {
+    "title": "Jewels Of Prosperity",
+    "img": "assets/pgs/jewels-prosper.png"
+  },
+  {
+    "title": "Jack Frost's Winter",
+    "img": "assets/pgs/jack-frosts.png"
+  },
+  {
+    "title": "Galactic Gems",
+    "img": "assets/pgs/galactic-gems.png"
+  },
+  {
+    "title": "Guardians Of Ice And Fire",
+    "img": "assets/pgs/gdn-ice-fire.png"
+  },
+  {
+    "title": "Opera Dynasty",
+    "img": "assets/pgs/opera-dynasty.png"
+  },
+  {
+    "title": "Majestic Treasures",
+    "img": "assets/pgs/majestic-ts.png"
+  },
+  {
+    "title": "Candy Bonanza",
+    "img": "assets/pgs/candy-bonanza.png"
+  },
+  {
+    "title": "Heist Of Stakes",
+    "img": "assets/pgs/heist-stakes.png"
+  },
+  {
+    "title": "Rise Of Apollo",
+    "img": "assets/pgs/rise-of-apollo.png"
+  },
+  {
+    "title": "Sushi Oishi",
+    "img": "assets/pgs/sushi-oishi.png"
+  },
+  {
+    "title": "Double Fortune",
+    "img": "assets/pgs/double-fortune.png"
+  },
+  {
+    "title": "Mermaid Riches",
+    "img": "assets/pgs/mermaid-riches.png"
+  },
+  {
+    "title": "Groundhog Harvest",
+    "img": "assets/pgs/groundhog.png"
+  }
+]
